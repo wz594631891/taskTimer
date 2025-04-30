@@ -6,7 +6,7 @@ TaskTimer 是一个用 Go 语言编写的命令行工具，用于在指定时间
 ## 安装
 ```sh
 # 编译项目
-go build -o bin/tasktimer src/main.go
+go build -o bin/tasktimer.exe src/main.go
 ```
 
 ## 使用方法
@@ -42,7 +42,7 @@ TaskTimer is a command-line tool written in Go that allows you to execute comman
 ## Installation
 ```sh
 # Build the project
-go build -o bin/tasktimer src/main.go
+go build -o bin/tasktimer.exe src/main.go
 ```
 
 ## Usage
